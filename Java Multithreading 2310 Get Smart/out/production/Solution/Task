@@ -1,0 +1,9 @@
+2310 Get Smart
+The printName method should output its own name, i.e. "sout"
+Make a minimum of changes.
+
+Requirements:
+1. The output to the screen must meet the condition.
+2. The class sout without parameters must be present in the Solution class.
+3. The Solution field must have a name field.
+4. The access modifier of the getName method must be extended.
